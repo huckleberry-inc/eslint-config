@@ -35,7 +35,8 @@ module.exports = {
       jsx: true,
     },
     ecmaVersion: 2018,
-    project: "./tsconfig.json",
+    // Disabled for functions directory
+    // project: "./tsconfig.json",
     sourceType: "module",
   },
   plugins: [
