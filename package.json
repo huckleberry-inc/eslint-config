@@ -1,6 +1,6 @@
 {
   "name": "@huckleberry-inc/eslint-config",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "index.js",
   "description": "Company's ESLint config",
   "license": "MIT",
